@@ -1,0 +1,16 @@
+#post-content pre code {
+    display:block;
+    overflow-x:auto;
+    position:relative;
+    margin:0;
+    padding-left:50px;
+}
+pre code {
+    position:relative;
+    display:block;
+    overflow-x:auto;
+    margin:4.4px 0.px .4px 1px;
+    padding:0;
+    max-height:500px;
+    padding-left:3.5em
+}
